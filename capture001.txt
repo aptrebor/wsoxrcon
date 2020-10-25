@@ -1,0 +1,73 @@
+{
+  "Message": "Stevie Wonder (Cant be Flashed)[76561198142801683] was suicide by Suicide",
+  "Identifier": 0,
+  "Type": "Generic",
+  "Stacktrace": ""
+}
+{
+  "Message": "Stevie Wonder (Cant be Flashed)[76561198142801683] has spawned",
+  "Identifier": 0,
+  "Type": "Generic",
+  "Stacktrace": ""
+}
+{
+  "Message": "[CHAT] fomoco[76561198067175964] : No issues here",
+  "Identifier": 0,
+  "Type": "Generic",
+  "Stacktrace": ""
+}
+{
+  "Message": "{\r\n  \"Channel\": 0,\r\n  \"Message\": \"No issues here\",\r\n  \"UserId\": \"76561198067175964\",\r\n  \"Username\": \"fomoco\",\r\n  \"Color\": \"#5af\",\r\n  \"Time\": 1602793490\r\n}",
+  "Identifier": -1,
+  "Type": "Chat",
+  "Stacktrace": null
+}
+{
+  "Message": "Saved 59,101 ents, cache(0.63), write(0.12), disk(0.01).",
+  "Identifier": 0,
+  "Type": "Generic",
+  "Stacktrace": ""
+}
+{
+  "Message": "Saving complete",
+  "Identifier": 0,
+  "Type": "Generic",
+  "Stacktrace": ""
+}
+{
+  "Message": "Stevie Wonder (Cant be Flashed)[76561198142801683] was suicide by Suicide",
+  "Identifier": 0,
+  "Type": "Generic",
+  "Stacktrace": ""
+}
+{
+  "Message": "Stevie Wonder (Cant be Flashed)[76561198142801683] has spawned",
+  "Identifier": 0,
+  "Type": "Generic",
+  "Stacktrace": ""
+}
+{
+  "Message": "[CHAT] fomoco[76561198067175964] : No issues here",
+  "Identifier": 0,
+  "Type": "Generic",
+  "Stacktrace": ""
+}
+{
+  "Message": "{\r\n  \"Channel\": 0,\r\n  \"Message\": \"No issues here\",\r\n  \"UserId\": \"76561198067175964\",\r\n  \"Username\": \"fomoco\",\r\n  \"Color\": \"#5af\",\r\n  \"Time\": 1602793490\r\n}",
+  "Identifier": -1,
+  "Type": "Chat",
+  "Stacktrace": null
+}
+{
+  "Message": "Saved 59,101 ents, cache(0.63), write(0.12), disk(0.01).",
+  "Identifier": 0,
+  "Type": "Generic",
+  "Stacktrace": ""
+}
+{
+  "Message": "Saving complete",
+  "Identifier": 0,
+  "Type": "Generic",
+  "Stacktrace": ""
+}
+
