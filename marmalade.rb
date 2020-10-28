@@ -19,11 +19,9 @@ def rcon_send wskt, command
   rng = rand(200)
   puts " Identifier: #{rng}"
 
-  msg =
-  { :Identifier => rng,
-    :Message => command,
-    :Name => "WebRcon" }.to_json
-
+  msg = { :Identifier => rng,
+          :Message => command,
+          :Name => "WebRcon" }.to_json
   wskt.send msg
 end
 
@@ -41,7 +39,9 @@ end
 
 puts "websocket-client-simple v#{WebSocket::Client::Simple::VERSION}"
 
-ws = WebSocket::Client::Simple.connect 'ws://127.0.0.1:3120'
+ws = WebSocket::Client::Simple.connect 'ws://192.168.1.69:3120'
+
+
 
 ws.on :message do |msg|
 
